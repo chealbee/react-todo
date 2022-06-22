@@ -7,7 +7,6 @@ function App() {
       <div className="App">
          <>
             <div className="todo__content">
-               <h1>hello</h1>
                <TodoForm />
                <Todos />
             </div>
